@@ -1,0 +1,6 @@
+{
+  "name": "Omah ERP",
+  "description": "Offline-first ERP/POS Android application for Indonesian UMKM grocery, retail, and B2B businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
